@@ -133,15 +133,13 @@ nav#menu #close {
 		float: right;
 	}
 	#hamburger-btn {
-		margin-top: 0px;
+		color: white;
 		cursor: pointer;
-		padding-top: 1vh;
-		width: 10vh;
-		height: 10vh;
-		line-height: 35px;
-		text-align: center;
-		font-size: 24px;
 	}
+	#hamburger-btn:hover {
+		color: #999;
+	}
+	/*
 #hamburger-navigation {
 	display: none;
 	order: -1;
@@ -157,7 +155,7 @@ nav#menu #close {
 	color:white ;
 	text-align: left;
 	z-index: 100;
-}
+} */
 .masthead {
 	padding-bottom: 2rem;
 	border-bottom: 1px solid #eee
@@ -185,6 +183,10 @@ nav#menu #close {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale
 }
+#hamburger-navigation {
+	display: none;
+}
+
 @media screen and (max-device-width: 768px),
 screen and (max-width: 768px),
 print {
@@ -224,7 +226,7 @@ print {
 		padding: .8rem 0
 	}
 	#hamburger-navigation {
-		display: flex;
+		display: block;
 	}
 }
 

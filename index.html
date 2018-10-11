@@ -53,21 +53,21 @@
             <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZ32M8S" height="0" width="0" style="display:none;visibility:hidden"></iframe>
           </noscript>
         <!-- End Google Tag Manager (noscript) -->
-      <div id="hamburger-navigation" type="button">
-        <i id="hamburger-btn" class="fa fa-bars"></i>
-      </div>
 
       <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="menu">
         <div id="close">
           <i class="fa fa-arrow-left"></i>
         </div>
+
+
+
       <div style="margin:auto;" align="center">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
           <span class="d-block d-lg-block">
             <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="">
           </span>
         </a>
-        <div class="collapse navbar-collapse">
+        <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav">
             <li class="nav-item" style="border-top:1px dashed #DDD;">
               <a class="nav-link js-scroll-trigger" href="#about">About Me</a>
@@ -95,6 +95,16 @@
       </footer>
     </nav>
     <div class="container-fluid p-0">
+  <section id="hamburger-navigation">
+    <nav class="navbar navbar-expand-lg navbar-light bg-primary fixed-top" style="z-index:90;">
+        <div class="container-fluid">
+            <div type="button" id="hamburger-btn">
+                <i class="fa fa-align-left"></i>
+            </div>
+            <span class="ml-4 text-light">Software Developer</span>
+        </div>
+    </nav>
+  </section>
   <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
     <div class="my-auto">
       <h1 class="mb-0 pb-4 bbd">Harshit
