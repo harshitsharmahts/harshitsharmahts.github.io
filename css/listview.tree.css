@@ -1,0 +1,266 @@
+ul.listview-tree,
+ul.listview-tree ul {
+	list-style-type: none;
+}
+
+ul.listview-tree,
+ul.listview-tree ul {
+	list-style-type: none;
+	background: url(../images/listview/vline.png) repeat-y;
+	margin: 0;
+	padding: 0;
+}
+
+ul.listview-tree ul {
+	margin-left: 10px;
+}
+
+ul.listview-tree li {
+	margin: 0;
+	padding: 0 12px;
+}
+
+ul.listview-tree,
+ul.listview-tree ul {
+	list-style-type: none;
+	background: url(../images/listview/vline.png) repeat-y;
+	margin: 0;
+	padding: 0;
+}
+
+ul.listview-tree ul {
+	margin-left: 10px;
+}
+
+ul.listview-tree li {
+	margin: 0;
+	padding: 0 12px;
+	line-height: 20px;
+	background: url(../images/listview/node.png) no-repeat;
+	color: #369;
+	font-weight: bold;
+}
+
+ul.listview-tree,
+ul.listview-tree ul {
+	list-style-type: none;
+	background: url(../images/listview/vline.png) repeat-y;
+	margin: 0;
+	padding: 0;
+}
+
+ul.listview-tree ul {
+	margin-left: 10px;
+}
+
+ul.listview-tree li {
+	margin: 0;
+	padding: 0 12px;
+	line-height: 20px;
+	background: url(../images/listview/node.png) no-repeat;
+	color: #000;
+	/* font-weight: bold; */
+}
+
+ul.listview-tree li.last {
+	background: #fff url(../images/listview/lastnode.png) no-repeat;
+}
+ul.listview-tree li:last-child { background: #fff url(../images/listview/lastnode.png) no-repeat; }
+
+.tags {
+  list-style: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0 5px;
+}
+
+.tags li {
+  float: left;
+}
+
+.tag {
+	border-radius: 2px 2px 2px 2px;
+	text-transform: capitalize;
+  background: #eee;
+  color: #777;
+  display: inline-block;
+  height: 26px;
+  line-height: 26px;
+  padding: 0 20px 0 23px;
+  position: relative;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+
+	transition-duration:0.5s;
+	-webkit-transition-duration:0.5s;
+}
+.tag::before {
+  background: transparent;
+  border-radius: 2px 0px 0px 2px;
+	content: "";
+  height: 26px;
+  left: 0px;
+	top: 0px;
+  position: absolute;
+  width: 1.5px;
+
+	transition-duration:0.5s;
+	-webkit-transition-duration:0.5s;
+}
+.tag:hover {
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+  color: #777;
+}
+.tag:hover::before {
+	background: #151515;
+}
+
+.pulse {
+  animation: pulse 2s infinite;
+}
+.pulse:hover {
+  animation: none;
+}
+
+@-webkit-keyframes pulse{
+  0% {
+	-webkit-transform: scale(1);
+  }
+  50% {
+	-webkit-transform: scale(1.2);
+  }
+  100% {
+	-webkit-transform: scale(1);
+  }
+}
+
+@-moz-keyframes pulse {
+  0% {
+	-moz-transform: scale(1);
+  }
+  50% {
+	-moz-transform: scale(1.2);
+  }
+  100% {
+	-moz-transform: scale(1);
+  }
+}
+
+@-ms-keyframes pulse {
+  0% {
+	-ms-transform: scale(1);
+  }
+  50% {
+	-ms-transform: scale(1.2);
+  }
+  100% {
+	-ms-transform: scale(1);
+  }
+}
+
+@-o-keyframes pulse {
+  0% {
+	-o-transform: scale(1);
+  }
+  50% {
+	-o-transform: scale(1.2);
+  }
+  100% {
+	-o-transform: scale(1);
+  }
+}
+
+@keyframes pulse{
+  0% {
+	transform: scale(1);
+  }
+  50% {
+	transform: scale(1.2);
+  }
+  100% {
+	transform: scale(1);
+  }
+}
+
+
+#footer {
+	text-align: right;
+	padding: 50px 50px 10px 50px;
+  background-color: #151515;
+}
+#footer a {
+	text-decoration: none;
+}
+#footer .social-button {
+	margin-top: 10px;
+	float: left;
+	padding: 0px;
+	color: #777;
+	text-decoration: none;
+	border: 1px solid #777;
+	border-radius: 2px;
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+}
+
+
+#footer .social-button:hover {
+	color: black;
+	background: #ccc;
+	border-color: #ccc;
+}
+
+
+#footer .social-button .social {
+	padding:5px;
+	border-right: 1px solid #ccc;
+}
+#footer .social-button .social-text {
+	padding:5px;
+}
+.footer-container {
+	margin:0px;
+	padding: 0px;
+	text-align: justify;
+}
+
+.footer-container hr {
+	width: 30%;
+	color: #ccc;
+}
+.footer-container h5 {
+	color: #ccc;
+	align-items: center;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-style: normal;
+}
+
+.footer-container .footer-ancor {
+	font-size: 12px;
+	line-height: 2;
+	color: #777 !important;
+	display: block !important;
+	text-decoration: none;
+	margin-bottom: 0px;
+}
+
+.footer-container .footer-ancor:hover {
+	color: #ccc !important;
+}
+
+.footer-container .footer-ancor i {
+	font-size: 8px;
+	margin-left: 5px;
+}
+
+.mb-0 {
+	margin-bottom: 0px !important;
+}
+
+.mr-20 {
+	margin-right: 20px;
+}

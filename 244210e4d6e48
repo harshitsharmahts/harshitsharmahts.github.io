@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html class="no-js no-touch">
+   <head>
+      <title>Harshit S. | Microservice based E-marketplace</title>
+
+      <meta name='mobile-web-app-capable' content='yes'>
+      <meta name='theme-color' content="#312450">
+      <meta name='apple-mobile-web-app-capable' content='yes'>
+      <meta name='application-name' content='Personal Website'>
+      <meta name='apple-mobile-web-app-status-bar-style' content='black'>
+      <meta name='apple-mobile-web-app-title' content='Harshit Sharma'>
+      <meta name='msapplication-TileColor' content='#fff'>
+
+      <meta name="description" content="Harshit Sharma">
+      <meta charset="utf-8">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <!-- favicons -->
+      <link rel="shortcut icon" href="images/favicon.png">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+      <!-- fonts -->
+      <link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic' rel='stylesheet' type='text/css'>
+      <!-- css -->
+      <link rel="stylesheet" href="css/normalize.css">
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/listview.tree.css">
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+   </head>
+   <body>
+
+<div style="max-width: 1400px; margin: 10px auto 0; padding: 0 5.5%;">
+   <a href="/" style="font-size: 13px; color: #777; text-decoration: none;"><b class="icon-arr-left"></b>&nbsp;Back to home page</a>
+</div>
+<div class="project-wrapper">
+   <section id="project-item" class="project-container">
+      <div class="project-list animate">
+         <div class="row">
+            <div class="col six">
+               <h3 style="margin-top: .3em;"> Microservice based Marketplace </h3>
+               <div class="row project-text">
+                  <div class="col three">
+                    <p>
+                      An E-marketplace for products, where customer can browse the inventory and purchase the item.
+                     <ul>
+                         <li>Customer can browse the inventory (without login)</li>
+                         <li>Customer can add the item to cart (without login)</li>
+                         <li>Customer can checkout to purchase (login required)</li>
+                         <li>Customer can see his/her purchase history (login required)</li>
+                         <li>Customer can see his/her profile (login required)</li>
+                     </ul>
+                    </p>
+
+                     <table style="width:100%;">
+                       <tr>
+                         <td>Project:</td>
+                         <td>Microservice Based Marketplace</td>
+                       </tr>
+
+                       <tr>
+                         <td>Duration:</td>
+                         <td>Oct 2018 - Dec 2018</td>
+                       </tr>
+
+                       <tr>
+                         <td>Organization:</td>
+                         <td><strong>NIIT University</strong>, Rajasthan</td>
+                       </tr>
+
+                        <tr>
+                          <td>Role:</td>
+                          <td>Full Stack Developer</td>
+                        </tr>
+
+                        <tr>
+                          <td colspan=2 style="text-align:center">
+                            <a href="https://github.com/harshitsharmahts/Microservice-based-marketplace" rel="nofollow" class="button inline-b" target="_blank">View the source code</a>
+                          </td>
+                        </tr>
+                     </table>
+                  </div>
+
+                  <div class="col one-half">
+                    <strong>Development</strong>
+                    <ul class="listview-tree">
+                      <li>
+                        FrontEnd
+                        <ul>
+                          <li>Angular 5</li>
+                          <li>Bootstrap 4</li>
+                          <li>Now UI Kit
+                            <a href="https://demos.creative-tim.com/now-ui-kit/index.html"><i class="fa fa-link" aria-hidden="true"></i></a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        BackEnd
+                        <ul>
+                          <li>
+                            Java Microservice
+                            <ul>
+                              <li>
+                                Spring Boot
+                                <ul>
+                                  <li>Eureka Server/Client</li>
+                                  <li>Zuul Proxy</li>
+                                  <li>starter-MongoDB</li>
+                                  <li>starter-web</li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        Database
+                        <ul>
+                          <li>MongoDB</li>
+                        </ul>
+                      </li>
+                      <li>
+                        Storage
+                        <ul>
+                          <li>AWS S3</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="col one-half">
+                    <strong>Deployment</strong>
+                    <ul class="listview-tree">
+                      <li>
+                        Cloud
+                        <ul>
+                          <li>
+                            AWS
+                            <ul>
+                              <li>
+                                EC2
+                                <ul>
+                                  <li>
+                                    Continuous Integration
+                                    <ul>
+                                      <li>Jenkins</li>
+                                    </ul>
+                                  </li>
+                                  <li>
+                                    Continuous Delivery
+                                    <ul>
+                                      <li>Docker</li>
+                                    </ul>
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        Version Control System
+                        <ul>
+                          <li>Git</li>
+                          <li>Github</li>
+                        </ul>
+                      </li>
+                      <li>
+                        Build Tools
+                        <ul>
+                          <li>Maven</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+
+               </div>
+
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/1.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/2.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/3.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/4.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/5.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/6.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/7.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/8.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/9.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/10.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/11.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/12.png" alt="" />
+            </div>
+         </div>
+         <div class="row" style="margin-bottom: 0;">
+            <div class="col three" style="margin-bottom: 0;">
+               <div class="project-text-all">
+                  <p>
+                     <strong>Technologies Used</strong>
+                  </p>
+               </div>
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/13.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/14.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/15.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/16.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/17.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/18.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/19.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/20.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/microservice/21.png" alt="" />
+            </div>
+         </div>
+      </div>
+   </section>
+</div>
+</body>
+</html>

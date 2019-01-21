@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html class="no-js no-touch">
+   <head>
+      <title>Harshit S. | Online Deal Finder</title>
+
+      <meta name='mobile-web-app-capable' content='yes'>
+      <meta name='theme-color' content="#312450">
+      <meta name='apple-mobile-web-app-capable' content='yes'>
+      <meta name='application-name' content='Personal Website'>
+      <meta name='apple-mobile-web-app-status-bar-style' content='black'>
+      <meta name='apple-mobile-web-app-title' content='Harshit Sharma'>
+      <meta name='msapplication-TileColor' content='#fff'>
+
+      <meta name="description" content="Harshit Sharma">
+      <meta charset="utf-8">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <!-- favicons -->
+      <link rel="shortcut icon" href="images/favicon.png">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+      <!-- fonts -->
+      <link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic' rel='stylesheet' type='text/css'>
+      <!-- css -->
+      <link rel="stylesheet" href="css/normalize.css">
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/listview.tree.css">
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+   </head>
+   <body>
+
+<div style="max-width: 1400px; margin: 10px auto 0; padding: 0 5.5%;">
+   <a href="index.html" style="font-size: 13px; color: #777; text-decoration: none;"><b class="icon-arr-left"></b>&nbsp;Back to home page</a>
+</div>
+<div class="project-wrapper">
+   <section id="project-item" class="project-container">
+      <div class="project-list animate">
+         <div class="row">
+            <div class="col six">
+               <h3 style="margin-top: .3em;"> Online Deal Finder </h3>
+               <div class="row project-text">
+                  <div class="col three">
+                     <p>
+                        Online Deal Finder is a platform that caters to two types of users, buyers and sellers. Using our Web-App/Portal a buyer can look for sellers with deals according to their geographic location at any point of time. A seller can make a profile and upload pictures and necessary details about their products. Once a buyer and seller finalize a deal. That particular product will no more appear in the list of products. The seller and the buyer can also communicate via our WebApp.
+                     </p>
+
+                    <table style="width:100%;">
+                      <tr>
+                        <td>Project:</td>
+                        <td>Online Deal Finder</td>
+                      </tr>
+
+                      <tr>
+                        <td>Duration:</td>
+                        <td>Feb 2018 - April 2018</td>
+                      </tr>
+
+                      <tr>
+                        <td>Organization:</td>
+                        <td><strong>NIIT University</strong>, Rajasthan</td>
+                      </tr>
+
+                       <tr>
+                         <td>Role:</td>
+                         <td>Full Stack Developer</td>
+                       </tr>
+
+                       <tr>
+                         <td colspan=2 style="text-align:center">
+                           <a href="http://github.com/harshitsharmahts/Online-Deal-Finder/" rel="nofollow" class="button inline-b" target="_blank">View the source code</a>
+                         </td>
+                       </tr>
+                    </table>
+                  </div>
+
+                  <div class="col one-half">
+                    <strong>Development</strong>
+                    <ul class="listview-tree">
+                      <li>
+                        FrontEnd
+                        <ul>
+                          <li>JSP</li>
+                          <li>Bootstrap 4</li>
+                          <li>HTML, CSS</li>
+                        </ul>
+                      </li>
+                      <li>
+                        BackEnd
+                        <ul>
+                          <li>
+                            Java
+                            <ul>
+                              <li>Servlets</li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        Database
+                        <ul>
+                          <li>MongoDB</li>
+                        </ul>
+                      </li>
+                      <li>
+                        Storage
+                        <ul>
+                          <li>AWS S3</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="col one-half">
+                    <strong>Deployment</strong>
+                    <ul class="listview-tree">
+                      <li>
+                        Cloud
+                        <ul>
+                          <li>
+                            AWS
+                            <ul>
+                              <li>EC2</li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        Version Control System
+                        <ul>
+                          <li>Git</li>
+                          <li>Github</li>
+                        </ul>
+                      </li>
+                      <li>
+                        Build Tools
+                        <ul>
+                          <li>Maven</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+
+               </div>
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/1.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/2.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/3.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/4.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/5.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/6.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/7.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/8.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/9.png" alt="" />
+            </div>
+         </div>
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/onlinedealfinder/10.png" alt="" />
+            </div>
+         </div>
+
+      </div>
+   </section>
+</div>
+
+</body>
+</html>

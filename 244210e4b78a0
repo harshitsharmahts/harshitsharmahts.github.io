@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html class="no-js no-touch">
+   <head>
+      <title>Harshit S. | Sanskrita Jyotsana</title>
+
+      <meta name='mobile-web-app-capable' content='yes'>
+      <meta name='theme-color' content="#312450">
+      <meta name='apple-mobile-web-app-capable' content='yes'>
+      <meta name='application-name' content='Personal Website'>
+      <meta name='apple-mobile-web-app-status-bar-style' content='black'>
+      <meta name='apple-mobile-web-app-title' content='Harshit Sharma'>
+      <meta name='msapplication-TileColor' content='#fff'>
+
+      <meta name="description" content="Harshit Sharma">
+      <meta charset="utf-8">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <!-- favicons -->
+      <link rel="shortcut icon" href="images/favicon.png">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+      <!-- fonts -->
+      <link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic' rel='stylesheet' type='text/css'>
+      <!-- css -->
+      <link rel="stylesheet" href="css/normalize.css">
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/listview.tree.css">
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+   </head>
+   <body>
+
+<div style="max-width: 1400px; margin: 10px auto 0; padding: 0 5.5%;">
+   <a href="index.html" style="font-size: 13px; color: #777; text-decoration: none;"><b class="icon-arr-left"></b>&nbsp;Back to home page</a>
+</div>
+<div class="project-wrapper">
+   <section id="project-item" class="project-container">
+      <div class="project-list animate">
+         <div class="row">
+            <div class="col six">
+               <h3 style="margin-top: .3em;"> Sanskrita Jyotsana </h3>
+               <p>
+                  Sanskrita Jyotsna is a Java based Desktop application, that is asically an e-tutor for the english speaking people. This desktop application comes with many chapters (such as: sandhi, declensions) inside of it to learn sanskrita for english speaking people. along with these chapter this application also contains two sanskrit editors, which are capable of converting the english text (Havard Kyoto) into sanskrita(Devenagari).
+               </p>
+               <div class="row project-text">
+
+                  <div class="col three">
+
+
+                    <table style="width:100%;">
+                      <tr>
+                        <td>Project:</td>
+                        <td>Sanskrita Jyotsana</td>
+                      </tr>
+
+                      <tr>
+                        <td>Duration:</td>
+                        <td>Nov 2017 - April 2018</td>
+                      </tr>
+
+                      <tr>
+                        <td>Organization:</td>
+                        <td>None</td>
+                      </tr>
+
+                       <tr>
+                         <td>Role:</td>
+                         <td>Software Developer</td>
+                       </tr>
+
+                       <tr>
+                         <td colspan=2 style="text-align:center">
+                           <a rel="nofollow" class="button inline-b" target="_blank">View the source code</a>
+                         </td>
+                       </tr>
+                    </table>
+                  </div>
+
+                  <div class="col one-half">
+                    <strong>Development</strong>
+                    <ul class="listview-tree">
+                      <li>
+                        Desktop Application
+                        <ul>
+                          <li>Java Core Concepts</li>
+                          <li>JavaFX</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="col one-half">
+                    <strong>Deployment</strong>
+                    <ul class="listview-tree">
+                      <li>
+                        IDE Deployment
+                        <ul>
+                          <li>IntelliJ IDEA</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+               </div>
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/sanskritajyotsana/1.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/sanskritajyotsana/2.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/sanskritajyotsana/3.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/sanskritajyotsana/4.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/sanskritajyotsana/5.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/sanskritajyotsana/6.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/sanskritajyotsana/7.png" alt="" />
+            </div>
+         </div>
+
+         <div class="row">
+            <div class="col six">
+               <img class="img" src="images/project/sanskritajyotsana/8.png" alt="" />
+            </div>
+         </div>
+
+      </div>
+   </section>
+</div>
+</body>
+</html>
